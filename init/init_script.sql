@@ -1,6 +1,6 @@
 alter session set current_schema = C##sKauro;
 Prompt Creating template tables....
-@@001_create_tables.sql
+--@@001_create_tables.sql
 Prompt Creating template tables....FINISHED
 
 Prompt Inserting template datas....
@@ -9,7 +9,7 @@ Prompt Inserting template datas....FINISHED
 
 
 Prompt Creating package....
---@@100_create_plsus_pkg.sql
+@@100_create_plsus_pkg.sql
 Prompt Creating package...FINISHED
 
 
